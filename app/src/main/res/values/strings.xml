@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Custom Dialog</string>
+    <string name="close">CLOSE</string>
+
+
+    <string name="string1">"\nTHIS IS A CUSTOM DIALOG\n"</string>
+</resources>
